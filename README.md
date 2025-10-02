@@ -1,2 +1,2 @@
 # saude-sorocaba
-Projeto criado via Lasy - saude-sorocaba
+Projeto criado - saude-sorocaba
